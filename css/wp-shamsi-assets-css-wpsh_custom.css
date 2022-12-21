@@ -1,9 +1,0 @@
-#wpadminbar #wp-admin-bar-wpsh .ab-icon:before {
-  content: '\f508';
-  top: 2px;
-}
-
-.rtl #wpadminbar * {
-  font-family: Vazir, tahoma, sans-serif, arial;
-}
-/*This file was exported by "Export WP Page to Static HTML" plugin which created by ReCorp (https://myrecorp.com) */
